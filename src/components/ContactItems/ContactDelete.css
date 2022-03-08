@@ -1,0 +1,16 @@
+.contactText {
+  display: inline-flex;
+  margin: 0px 0px;
+  font-size: large;
+  font-weight: 600;
+  justify-items: left;
+}
+
+.contactDeleteBtn {
+  height: 25px;
+  margin-left: 20px;
+  border: 0;
+  border-radius: 2px;
+  cursor: pointer;
+  align-items: center;
+}
