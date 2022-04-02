@@ -14,3 +14,10 @@
   cursor: pointer;
   align-items: center;
 }
+
+.button {
+margin-left: 5px;
+cursor: pointer;
+background-color: red;
+border-radius: 25%;
+}
